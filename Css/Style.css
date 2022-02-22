@@ -1,0 +1,27 @@
+/*Determinar como hacer los estilos*/
+/*regla:selector-propiedad*/
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+
+body{ 
+        background-image:  url("../img/blanco.jpg ") ;
+        background-repeat: repeat-y;
+    }
+
+h1{
+    color: #7fffb0; font-size: 35px;
+    font-family: 'Shizuru', cursive;
+}
+
+h2{
+    color: rgb(250, 140, 140); font-family:'Shizuru', cursive;
+} /*obique:es como <em> para cursiva*/
+
+p{
+    color: hsl(206, 72%, 22%)
+}/*hue(Matiz), saturation(saturación) y lightness(luminosidad)*/
+
+img{
+    width: 25px
+}
+
